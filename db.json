@@ -1,6 +1,4 @@
 {
-  "nome": "Cristiano Ronaldo",
-  "posicao": "Atacante",
-  "Nacionalidade":"Portugal",
-  "Time": "Juventus"
+  "id": 1,
+  "Nome": "Cristiano Ronaldo"
 }
