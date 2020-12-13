@@ -1,15 +1,11 @@
 {
-    "employees": [
-     {
-      "firstname": "Cristiano",
-      "age": 35,
-      "mail": "john@gmail.com"
-     },
-     {
-      "firstname": "Messi",
-      "age": 33,
-      "mail": "john@gmail.com"
-     }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-      
