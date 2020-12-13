@@ -2,12 +2,12 @@
     "employees": [
      {
       "firstname: "Cristiano",
-      "age": 35;
+      "age": 35,
       "mail": "john@gmail.com"
      },
      {
       "firstname: "Messi",
-      "age": 33;
+      "age": 33,
       "mail": "john@gmail.com"
      }
     ]
